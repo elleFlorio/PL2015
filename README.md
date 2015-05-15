@@ -11,3 +11,13 @@ Type synonyms;
 newtype vs data;
 functions currying and composition;
 Infinite computations;
+
+(15/5/15)
+boolean guards;
+Infinite computations;
+let & where;
+case expressions;
+fold;
+list comprehension;
+typeclasses;
+
