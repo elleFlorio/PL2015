@@ -21,3 +21,8 @@ fold;
 list comprehension;
 typeclasses;
 
+(29/5/15)
+Monads: Maybe, State;
+Dedinition of Logger Monad;
+Application to binary tree;
+Homework (slide)
