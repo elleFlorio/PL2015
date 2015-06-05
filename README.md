@@ -26,3 +26,6 @@ Monads: Maybe, State;
 Dedinition of Logger Monad;
 Application to binary tree;
 Homework (slide)
+
+(5/6/15)
+Concurrency; Homework (possible solution)
